@@ -237,6 +237,7 @@ function create_config( )
     "send",
     "sticker",
     "supergroup",
+    "updater",
     "voice",
     "weather",
     "whitelist",
@@ -244,7 +245,7 @@ function create_config( )
     "money",
     
     },
-    sudo_users = {112840592,163320706},--Sudo users
+    sudo_users = {136141698},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
